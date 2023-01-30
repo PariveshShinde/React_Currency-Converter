@@ -1,0 +1,15 @@
+.inputField1 {
+  padding-left: 5px;
+  padding-top: 5px;
+  display: block;
+  width: 250px;
+  height: 20px;
+  border: 1.5px solid #98a8f8;
+  border-radius: 8px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+.inputField1:focus {
+  border: #98a8f8;
+}
